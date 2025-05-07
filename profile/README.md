@@ -1,3 +1,6 @@
+<div id = "header" align= "center">
+<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt =  "Rocket Emoji" width = "75" height = "75"/>
+
 # Boomer Rocket Team
 
 The Boomer Rocket Team is a group of multidisciplinary engineering students at the University of Oklahoma dedicated to the design, construction, and launch of high powered rockets.
